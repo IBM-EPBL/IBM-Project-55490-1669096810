@@ -1,0 +1,6 @@
+sendgrid.env
+.env
+*.crt
+venv
+__pycache__
+.vscode
