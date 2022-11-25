@@ -1,4 +1,4 @@
-# Inventory Managment System for the Retailers
+# Inventory Managment System for Retailers
 
 # IBM-Project-55490-1669096810 |   TEAMID: PNT2022TMID25192
 <b>Team Lead:  SUVINDRAN S - 210619104702<br>
