@@ -1,6 +1,8 @@
 # Inventory Managment System for Retailers
 
 # IBM-Project-55490-1669096810 |   TEAMID: PNT2022TMID25192
+<div align="center"><h3> <a href = "http://159.122.175.187:31500">Click here to check out project Deployment</a></h3>  </div>
+<div align="center"><h3> <a href = "https://www.youtube.com/embed/JMHPR4Qs0QQ">Click here to check out Demo link</a></h3>  </div>
 <b>Team Lead:  SUVINDRAN S - 210619104702<br>
 Team Member 1: KHIRTHI KUMAR N - 210619104703<br>
 Team Member 2: MANIGANDAN P - 210619104029<br>
